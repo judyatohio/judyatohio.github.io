@@ -1,0 +1,1 @@
+/home/jshreffl/judyatohio.github.io/target/wasm32-unknown-unknown/release/judyatohio_github_io.wasm: /home/jshreffl/judyatohio.github.io/src/app.rs /home/jshreffl/judyatohio.github.io/src/lib.rs /home/jshreffl/judyatohio.github.io/src/main.rs

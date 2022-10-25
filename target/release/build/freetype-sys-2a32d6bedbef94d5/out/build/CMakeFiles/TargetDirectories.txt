@@ -1,0 +1,10 @@
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/install/strip.dir
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/install/local.dir
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/edit_cache.dir
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/package_source.dir
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/install.dir
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/list_install_components.dir
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/rebuild_cache.dir
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/package.dir
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/dist.dir
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/freetype-sys-2a32d6bedbef94d5/out/build/CMakeFiles/freetype.dir
