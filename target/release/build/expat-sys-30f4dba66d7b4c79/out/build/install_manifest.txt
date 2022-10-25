@@ -1,0 +1,4 @@
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/expat-sys-30f4dba66d7b4c79/out/lib/libexpat.a
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/expat-sys-30f4dba66d7b4c79/out/include/expat.h
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/expat-sys-30f4dba66d7b4c79/out/include/expat_external.h
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/build/expat-sys-30f4dba66d7b4c79/out/lib/pkgconfig/expat.pc

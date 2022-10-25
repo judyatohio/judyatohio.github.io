@@ -1,0 +1,12 @@
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/deps/slotmap-fa4af39150edb35a.rmeta: /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/lib.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/basic.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/dense.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/hop.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/secondary.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/sparse_secondary.rs
+
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/deps/libslotmap-fa4af39150edb35a.rlib: /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/lib.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/basic.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/dense.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/hop.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/secondary.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/sparse_secondary.rs
+
+/home/jshreffl/rust-stuff/egui-template-copy/target/release/deps/slotmap-fa4af39150edb35a.d: /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/lib.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/basic.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/dense.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/hop.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/secondary.rs /home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/sparse_secondary.rs
+
+/home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/lib.rs:
+/home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/basic.rs:
+/home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/dense.rs:
+/home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/hop.rs:
+/home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/secondary.rs:
+/home/jshreffl/.cargo/registry/src/github.com-1ecc6299db9ec823/slotmap-1.0.6/src/sparse_secondary.rs:
